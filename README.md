@@ -1,6 +1,16 @@
 # wineQualityPred
 An ML model to predict the wine quality based on Random Forest Classifier model.
 
+## Screenshots
+![Wine Glasses](w1.png)
+![Wine Glasses](w2.png)
+![Wine Glasses](w3.png)
+![Wine Glasses](w4.png)
+![Wine Glasses](w5.png)
+![Wine Glasses](w6.png)
+![Wine Glasses](w7.png)
+![Wine Glasses](w8.png)
+
 # Wine Quality Prediction
 
 ## Overview
@@ -59,11 +69,3 @@ grid_rf.fit(x_train, y_train)
 
 Evaluated the model using various metrics, such as accuracy, classification report, and confusion matrix, to assess its performance on predicting wine quality.
 
-![Wine Glasses](w1.png)
-![Wine Glasses](w2.png)
-![Wine Glasses](w3.png)
-![Wine Glasses](w4.png)
-![Wine Glasses](w5.png)
-![Wine Glasses](w6.png)
-![Wine Glasses](w7.png)
-![Wine Glasses](w8.png)
